@@ -2,9 +2,11 @@
   <img src="assets/now-playing.svg" alt="Now playing: Rahul Agarwal, product engineer and tech lead" width="100%">
 </p>
 
-### 🎧 Track 01 · Intro
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal: whoami, now playing, playlist and side project" width="760">
+</p>
 
-Product engineer and tech lead in Dubai, with 10+ years of building backend systems across FinTech, SaaS and AdTech. I start from the business problem, own it from design to production, and these days pair with AI coding tools to ship a product's full lifecycle.
+<p align="center"><i>10+ years of backend systems across FinTech, SaaS and AdTech. I start from the business problem and own it all the way to production.</i></p>
 
 ### 💿 Discography
 
@@ -16,20 +18,9 @@ Product engineer and tech lead in Dubai, with 10+ years of building backend syst
 
 ### 🎛️ Instruments
 
-![Python](https://img.shields.io/badge/Python-0f2238?style=for-the-badge&logo=python&logoColor=f2b84b)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f2238?style=for-the-badge&logo=fastapi&logoColor=f2b84b)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0f2238?style=for-the-badge&logo=sqlalchemy&logoColor=f2b84b)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f2238?style=for-the-badge&logo=postgresql&logoColor=f2b84b)
-![Redis](https://img.shields.io/badge/Redis-0f2238?style=for-the-badge&logo=redis&logoColor=f2b84b)
-![Kafka](https://img.shields.io/badge/Kafka-0f2238?style=for-the-badge&logo=apachekafka&logoColor=f2b84b)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0f2238?style=for-the-badge&logo=kubernetes&logoColor=f2b84b)
-![AWS](https://img.shields.io/badge/AWS-0f2238?style=for-the-badge&logo=amazonwebservices&logoColor=f2b84b)
-![Docker](https://img.shields.io/badge/Docker-0f2238?style=for-the-badge&logo=docker&logoColor=f2b84b)
-![Kong](https://img.shields.io/badge/Kong-0f2238?style=for-the-badge&logo=kong&logoColor=f2b84b)
-![Datadog](https://img.shields.io/badge/Datadog-0f2238?style=for-the-badge&logo=datadog&logoColor=f2b84b)
-![React](https://img.shields.io/badge/React-0f2238?style=for-the-badge&logo=react&logoColor=f2b84b)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f2238?style=for-the-badge&logo=typescript&logoColor=f2b84b)
-![Go](https://img.shields.io/badge/Go-0f2238?style=for-the-badge&logo=go&logoColor=f2b84b)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,kafka,kubernetes,aws,docker,react,ts,go,git&theme=dark&perline=12" alt="Python, FastAPI, PostgreSQL, Redis, Kafka, Kubernetes, AWS, Docker, React, TypeScript, Go, Git">
+</p>
 
 **Session players:** ![Claude Code](https://img.shields.io/badge/Claude_Code-f2b84b?style=for-the-badge&logo=claude&logoColor=0f2238) ![Cursor](https://img.shields.io/badge/Cursor-f2b84b?style=for-the-badge&logo=cursor&logoColor=0f2238)
 
@@ -51,3 +42,5 @@ When I'm not building compliance systems, I'm building tools for my own music li
 [![Email](https://img.shields.io/badge/Email-0f2238?style=for-the-badge&logo=gmail&logoColor=f2b84b)](mailto:rahul19ag@gmail.com)
 
 <sub>Most of my work lives in private company repos. What you see here is the B-side.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1d31,100:1f4068&height=110&section=footer" width="100%" alt="">
