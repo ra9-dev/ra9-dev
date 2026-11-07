@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/now-playing.svg" alt="Now playing: Rahul Agarwal, product engineer and tech lead" width="100%">
+  <img src="assets/retro-player.svg" alt="Retro music player: Rahul Agarwal, product engineer and tech lead, with a career playlist from 2016 to now" width="100%">
 </p>
 
 <p align="center">
