@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/world-map.svg" alt="World map of my career from SVG Media in 2016 to Rapyd now, with the next level loading" width="100%">
+</p>
+
+<p align="center">
   <img src="assets/battle.svg" alt="Boss battles from my career: a legacy monolith, an unauthenticated endpoint and a sky-high cloud bill" width="760">
 </p>
 
