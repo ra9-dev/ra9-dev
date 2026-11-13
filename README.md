@@ -6,7 +6,7 @@
 
 ### 🛰️ Flight log
 
-| Years | Release | What it was about |
+| Years | Company · Role | What I did |
 |---|---|---|
 | **2025 → now** | **Rapyd** · Senior Domain Owner (Lead Forward Deployed Engineer) | KYB onboarding, merchant screening and transaction monitoring for the risk and compliance teams |
 | **2022 → 2025** | **SAVii** · Tech Lead, SDE 3 | Led a team of 6, broke a Java monolith into FastAPI microservices, built a Kong gateway with custom Lua plugins |
