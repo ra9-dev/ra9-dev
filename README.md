@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/world-map.svg" alt="World map of my career from SVG Media in 2016 to Rapyd now, with the next level loading" width="100%">
+  <img src="assets/world-map.svg" alt="World map of my career: World 1 SVG Media / Tyroo 2016 to 2022, World 2 SAVii 2022 to 2025, World 3 Rapyd 2025 to now, next level loading" width="100%">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 |---|---|---|
 | **2025 → now** | **Rapyd** · Senior Domain Owner (Lead Forward Deployed Engineer) | KYB onboarding, merchant screening and transaction monitoring for the risk and compliance teams |
 | **2022 → 2025** | **SAVii** · Tech Lead, SDE 3 | Led a team of 6, broke a Java monolith into FastAPI microservices, built a Kong gateway with custom Lua plugins |
-| **2016 → 2022** | **Vidtech.AI / Tyroo** · Lead Engineer | Built a SaaS ad platform from scratch, from EC2 to Lambda to Kubernetes on EKS |
+| **2016 → 2022** | **SVG Media / Tyroo** · Software Developer → Senior SDE → Lead Software Engineer | Built a SaaS ad platform from scratch, from EC2 to Lambda to Kubernetes on EKS |
 
 ### 🎒 Inventory
 
